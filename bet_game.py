@@ -20,6 +20,7 @@ while n!=0 and n<10:
             print("lost")
     else:
         print("entered wrong number")
+    print("**************************")    
     print("##########################")
     print("##########################")    
     print("##########################")    
